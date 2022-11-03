@@ -1,13 +1,13 @@
-<img align="right" height="590em" src="./.github/preview.png"/>
 <h1 align="center">
 <a href="https://github.com/rodrigoridasi">
 <img width="30%" alt="NLW Copa" src="./.github/nlw-copa-readme-header.png" />
 </a>
 </h1>
 
+<img align="right" width="50%" src="./.github/preview.gif"/>
 Projeto realizado no evento Next Level Week e-Sports da 🚀 Rocketseat. 
 
-[🔗 Clique aqui para acessar](https://rodrigoridasi.github.io/nlw-copa/)
+[🔗 Clique aqui para acessar uma amostra do site!](https://rodrigoridasi.github.io/nlw-copa/)
 
 ## Tecnologias
 
