@@ -4,10 +4,10 @@
 </a>
 </h1>
 
-<img align="right" width="50%" src="./.github/preview.gif"/>
-Projeto realizado no evento Next Level Week e-Sports da 🚀 Rocketseat. 
+<img align="right" width="65%" src="./.github/preview.gif"/>
+Projeto realizado no evento Next Level Week <br /> Copa da 🚀 Rocketseat. 
 
-[🔗 Clique aqui para acessar uma amostra do site!](https://rodrigoridasi.github.io/nlw-copa/)
+[🔗 Clique aqui para acessar!](https://rodrigoridasi.github.io/nlw-copa/)
 
 ## Tecnologias
 
