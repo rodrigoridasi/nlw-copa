@@ -5,7 +5,7 @@
 </h1>
 
 <img align="right" width="65%" src="./.github/preview.gif"/>
-Projeto realizado no evento Next Level Week <br /> Copa da 🚀 Rocketseat. 
+Projeto realizado no evento Next Level Week Copa da 🚀 Rocketseat. 
 
 [🔗 Clique aqui para acessar!](https://rodrigoridasi.github.io/nlw-copa/)
 
